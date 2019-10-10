@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AnimalSounds</string>
+    <string name="id_cat">Cat</string>
 </resources>

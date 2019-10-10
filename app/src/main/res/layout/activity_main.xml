@@ -8,5 +8,34 @@
     tools:context=".MainActivity">
 
 
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+        android:gravity="center"
+        >
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/cat" />
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:text="@string/id_cat"
+            android:gravity="center"
+            android:textSize="50dp"
+
+            />
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/playb"
+        />
+
+
+</LinearLayout>
 
 </LinearLayout>
