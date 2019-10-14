@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">AnimalSounds</string>
     <string name="id_cat">Cat</string>
+    <string name="id_bird">Bird</string>
+    <string name="id_cow">Cow</string>
+    <string name="id_dog">Dog</string>
+    <string name="id_duck">Duck</string>
 </resources>
